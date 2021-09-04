@@ -1,5 +1,5 @@
-----------------
- python   |
+________
+ python |
 ________
 
 # 1560A - Dislike of Threes
@@ -15,8 +15,8 @@ while t > 0:
     print(res)
     t -= 1
 
-----------------
-  c++       |
+________
+  c++   |
 ________
 
 #include <iostream>
