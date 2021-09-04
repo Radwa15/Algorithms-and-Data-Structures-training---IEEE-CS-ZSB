@@ -1,5 +1,5 @@
-----------------
- python   |
+________
+ python |
 ________
 
 import sys
@@ -18,8 +18,8 @@ while x >= 10:
     count += 1
 print(count)
 
-----------------
-  c++       |
+________
+  c++   |
 ________
 
 #include <iostream>
