@@ -1,5 +1,5 @@
-----------------
- python   |
+________
+ python |
 ________
 
 import numpy as np
@@ -14,8 +14,8 @@ for i in range(0,5):
 
 print(c)
 
-----------------
-  c++       |
+________
+  c++   |
 ________
 
 #include <iostream>
